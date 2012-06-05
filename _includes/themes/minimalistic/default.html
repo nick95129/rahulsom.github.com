@@ -11,7 +11,7 @@
     <link href="{{ ASSET_PATH }}/styles.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/pygment_trac.css?body=1" rel="stylesheet" type="text/css" media="all">
 
-    <link rel="alternate" type="application/atom+xml" href="{{ site.production_url }}/atom.xml"/>
+    <link rel="alternate" type="application/atom+xml" href="{{ BASE_PATH }}/atom.xml"/>
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -31,6 +31,9 @@
   </head>
 
   <body>
+    <a href="http://github.com/rahulsom/rahulsom.github.com" target="_blank">
+      <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub">
+    </a>
 
     <div class="wrapper">
       <header>
@@ -40,25 +43,11 @@
           </h1>
         </a>
         <p>Programmer, Cyclist, Trivia Junkie</p>
-<!--         <p class="view"><a href="https://github.com/rahulsom/scrummy">View the Project on GitHub <small>rahulsom/scrummy</small></a></p>
         <ul>
-          <li><a href="https://github.com/rahulsom/scrummy/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/rahulsom/scrummy/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/rahulsom/scrummy">View On <strong>GitHub</strong></a></li>
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include JB/pages_list %}
         </ul>
- -->
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
-        </div>
-      </div>
-    </div>
 
       </header>
       <section>
@@ -69,7 +58,7 @@
       </div>
       </section>
       <footer>
-        <p>&copy; {{ site.author.name }} 2012 
+        <p>&copy; {{ site.author.name }} 2012
         </p>
         <p><small>
           With help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>. <br>
