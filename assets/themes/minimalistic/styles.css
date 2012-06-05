@@ -267,3 +267,8 @@ ul.tag_box, ul.posts {
   list-style-type: none;
   padding-left: 0;
 }
+
+ul.pages {
+  list-style-type: none;
+  padding-left: 0;
+}
