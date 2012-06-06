@@ -272,3 +272,34 @@ ul.pages {
   list-style-type: none;
   padding-left: 0;
 }
+
+div.pagination {
+  position: fixed;
+  width: 500px;
+  margin-top: 10em;
+  z-index: -1;
+}
+
+div.pagination ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+div.pagination ul li {
+  position: relative;
+  font-size: 144px;
+}
+
+div.pagination ul li.archive {
+  display: none;
+}
+
+div.pagination ul li.prev {
+  margin-left: -80px;
+  float: left;
+}
+
+div.pagination ul li.next {
+  margin-right: -80px;
+  float: right;
+}
