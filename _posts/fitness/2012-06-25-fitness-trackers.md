@@ -12,8 +12,8 @@ The first thing you're taught when you start learning physics is
 
 #### When cycling
 I applied that approach to cycling - I bought a 
-[Schwinn](http://www.amazon.com/Schwinn-SW654-6PK-20-Function-Computer/dp/B000DZD3FQ) computer and then a
-[Cateye](http://www.amazon.com/Cateye-CC-RD400DW-Wireless-Cycling-Computer/dp/B002HHQNL4/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1340683375&sr=1-1&keywords=double+strada) and this made me understand my biking better. I knew 
+[Schwinn](http://amzn.to/Rk2yTx) computer and then a
+[Cateye](http://amzn.to/Rk2KSG) and this made me understand my biking better. I knew 
 how fast I could go, what my speed was on flats, climbs and descents. With Schwinn, I had an understanding of
 how many calories I burnt. With Cateye, I started looking at my cadence.
 
@@ -32,13 +32,13 @@ nothing more than driving to work and returning home; and it said I'd walked 5 m
 I was tin-foil carrying a Geiger Counter with me. Also pedometers don't account for other activity I do.
 
 #### The choices
-I saw my trainer at the gym wearing one of those [Bodybuggs](http://www.bodybugg.com/). That seemed like a good idea.
+I saw my trainer at the gym wearing one of those [Bodybuggs](http://www.bodybugg.com/) [![](http://www.amazon.com/favicon.ico)](http://amzn.to/TkthyG). That seemed like a good idea.
 Except that you require a subscription to get the best out of it. So I've started looking at other alternatives
 
-* [Fitbit](http://www.fitbit.com/product) seems to do away with the subscription, but it's just a 3D accelerometer;
+* [Fitbit](http://www.fitbit.com/product) [![](http://www.amazon.com/favicon.ico)](http://amzn.to/WYwUOY) seems to do away with the subscription, but it's just a 3D accelerometer;
   *that's like a fancy pedometer*. It's great in that it has an [API](http://dev.fitbit.com/), and apparently a 
   thriving ecosystem.
-* Then there's Nike's [Fuelband](http://www.nike.com/fuelband/) which looks great, but then doesn't give any meaningful
+* Then there's Nike's [Fuelband](http://www.nike.com/fuelband/) [![](http://www.amazon.com/favicon.ico)](http://amzn.to/VXo1XY) which looks great, but then doesn't give any meaningful
   metrics other than it's own fake currency.
 * The third contender is [Basis](https://mybasis.com/) which so far seems to be vaporvare, in that we don't know much
   about it except for that it will cost $199.

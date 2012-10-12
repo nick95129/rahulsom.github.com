@@ -303,3 +303,7 @@ div.pagination ul li.next {
   margin-right: -80px;
   float: right;
 }
+
+a > img[src="http://www.amazon.com/favicon.ico"] {
+  height: 12px;
+}
