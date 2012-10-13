@@ -242,7 +242,7 @@ footer {
   }
 
   .forkme {
-    display: hidden;
+    display: none;
   }
 }
 
@@ -256,7 +256,7 @@ footer {
   }
 
   .forkme {
-    display: hidden;
+    display: none;
   }
 }
 
