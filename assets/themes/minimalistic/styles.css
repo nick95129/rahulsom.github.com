@@ -240,6 +240,10 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  .forkme {
+    display: hidden;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
