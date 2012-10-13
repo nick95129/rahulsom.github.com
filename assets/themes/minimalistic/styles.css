@@ -250,6 +250,10 @@ footer {
   header ul {
     display:none;
   }
+
+  .forkme {
+    display: hidden;
+  }
 }
 
 @media print {
