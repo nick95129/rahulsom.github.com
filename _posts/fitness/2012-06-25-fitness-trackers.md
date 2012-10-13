@@ -3,7 +3,7 @@ layout: post
 title: "Fitness Trackers"
 description: ""
 category: fitness
-tags: []
+tags: [fitness, tracker, bodybugg, fitbit, fuelband, basis]
 ---
 {% include JB/setup %}
 
