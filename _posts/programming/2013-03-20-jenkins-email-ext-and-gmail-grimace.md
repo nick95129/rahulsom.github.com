@@ -2,7 +2,7 @@
 layout: post
 title: "Jenkins, Email Ext and Gmail Grimace"
 description: ""
-category: 
+category: programming
 tags: []
 ---
 {% include JB/setup %}
