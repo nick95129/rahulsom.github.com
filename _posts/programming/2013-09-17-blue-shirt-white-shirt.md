@@ -13,7 +13,7 @@ Image from [Wikipedia](https://en.m.wikipedia.org/wiki/File:Woman_in_white_Shirt
 
 I call this the `Blue Shirt, White Shirt` problem. It goes like this:
 
-Your customer, *Bob* calls you and says
+Your customer, *Bob* comes to your garage and says
 
 ----
 
@@ -53,6 +53,15 @@ my car wouldn't start with the white shirt.*
 *Now I started the car, and came back home. But to be sure, I put on another white
 shirt and tried starting the car. It just wouldn't.*
 
+*So this morning, I put on this green shirt, and drove to work. Everything was great.
+I quickly changed to my white shirt, to show my coworker the problem, and as expected
+the car wouldn't start.*
+
+*I decided to bring my car in around my lunch break.*
+
+*Let me quickly put on my white shirt and show you that I'm not making things
+up.*
+
 ----
 
 Now *Bob* has done an amazing analysis of the problem, and it's a great story.
@@ -64,7 +73,7 @@ you probably know that any way.
 A lot of customer problems in Software Development get reported this way. And by the 
 time they get to the developer who needs to fix the problem, this is what it looks like
 
-	CAR-1034: Make car start when customer is wearing white shirts.
+	CAR-1034: Car does not start when customer is wearing white shirts.
 
 	Severity: Blocker
 	Type: Bug
