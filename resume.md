@@ -19,10 +19,14 @@ to the HIE space.
 
 This project was built with Groovy, Grails, Atmosphere, Camel, CXF at its core. I 
 built a reverse push mechanism to have customers within networks without public 
-addresses connect to those which do have one. I wrote modules to aggregate, 
-normalize and visualize Continuity of Care Documents.
+addresses connect to those which do have one.
 
-**Certify Data Systems (San Jose CA) Employee of Intelliswift Software Inc**
+This product, post acquisition became the Swiss Army Knife at Humana - it was the
+plumbing for getting all systems at different sites to talk to each other; but also
+became what Humana used as part of it's *Accountable Care Organization (ACO)* and 
+*Managed Services Organization (MSO)* tools.
+
+**Certify Data Systems (San Jose CA) - Employee of Intelliswift Software Inc**
 Java Developer
 *Apr 08–Jul 11*
 
@@ -35,7 +39,7 @@ JNLP-Swing client to integrate with Electronic Medical Record vendors who needed
 filesystem based IO. I built JMeter tests to identify performance problem spots and 
 performed several optimizations to the code to gain better performance.
 
-**PRI Network (Warrendale PA) Employee of Intelliswift Software Inc**
+**PRI Network (Warrendale PA) - Employee of Intelliswift Software Inc**
 Java Developer, eAuditNet
 *Feb 08–Apr 08*
 
@@ -88,7 +92,7 @@ many technologies. That helps me understand how people with different background
 technology, and effectively help them bridge the gap between technologies they've used in 
 the past and the ones that they may require for newer projects.
 
-Recruitment; Lots of experience recruiting and interviewing for various technology roles; 
+Recruitment; Lots of experience interviewing and testing for various technology roles; 
 interviewed several candidates for Certify and Intelliswift.
 
 Technology
@@ -98,12 +102,12 @@ I have been programming since I was 12, starting with trivial programs on logo a
 and eventually working on several larger applications and some serious, some fun languages.
 
 
-* Java & the JVM; Java, Groovy, Grails, Scala, Jython Sockets, Servlets, JSP, Freemarker, 
+* **Java & the JVM;** Java, Groovy, Grails, Scala, Jython Sockets, Servlets, JSP, Freemarker, 
   Spring, Hibernate, Maven, ANT, AspectJ.
-* Testing; JUnit, TestNG, Selenium, Geb, JMeter, JMock, EasyMock.
-* Microsoft; Visual Basic, Visual C++, ASP, IIS.
-* Databases; Oracle, MySQL, PostgreSQL - very fluent in SQL and schema design.
-* Other; COBOL, Focus, BASH scripting, PHP, Python.
+* **Testing;** JUnit, TestNG, Selenium, Geb, JMeter, JMock, EasyMock.
+* **Microsoft;** Visual Basic, Visual C++, ASP, IIS.
+* **Databases;** Oracle, MySQL, PostgreSQL - very fluent in SQL and schema design.
+* **Other;** COBOL, Focus, BASH scripting, PHP, Python.
 
 Education
 ----
