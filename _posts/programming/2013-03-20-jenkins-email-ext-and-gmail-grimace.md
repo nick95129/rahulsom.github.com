@@ -42,7 +42,7 @@ So I decided to [hack the plugin](https://github.com/jenkinsci/email-ext-plugin/
 All you need to do is create a `style` tag in your email with an additional
 attribute `data-inline` and value `true`.
 
-{% highlight html %}
+```html
 <style type="text/css" data-inline="true">
   div.good {
   	background-color: blue;
@@ -54,7 +54,7 @@ attribute `data-inline` and value `true`.
 <style type="text/css">
   ... more styles ...
 </style>
-{% endhighlight %}
+```
 
 The plugin now will take this css and apply it inline to all elements. This
 makes GMail happy.
