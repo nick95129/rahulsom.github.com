@@ -16,7 +16,7 @@ Character Encoding is what decides how Strings which are first class citizens in
 
 This program takes a string in 3 different languages and shows how each language is affected by different charsets.
 
-```groovy
+{% highlight groovy %}
 import java.nio.charset.Charset
 // println Charset.availableCharsets()*.key.join('\n')
 void reportOnText(String text) {
@@ -36,7 +36,7 @@ reportOnText('Happy New Year!')
 reportOnText('¡Feliz Año Nuevo!')
 reportOnText('新年あけましておめでとうございます！')
 reportOnText('KYPHON® Balloon Kyphoplasty')
-```
+{% endhighlight %}
 
 Let's look at the output before we dig into the explanation
 
@@ -91,7 +91,7 @@ Among the UTF charsets, UTF-32 takes 32 bits per character. UTF-16 takes a minim
 #### What if we change charsets after encoding?
 This is precisely what happens when one system encodes a message in one charset and another tries to parse it using a different charset.
 
-```groovy
+{% highlight groovy %}
 import java.nio.charset.Charset
 void testWrongEncoding(String text) {
   def theBytes = text.getBytes(Charset.forName('ISO-8859-1'))
@@ -104,7 +104,7 @@ testWrongEncoding('Happy New Year!')
 testWrongEncoding('¡Feliz Año Nuevo!')
 testWrongEncoding('新年あけましておめでとうございます！')
 testWrongEncoding('KYPHON® Balloon Kyphoplasty')
-```
+{% endhighlight %}
 
 This is the result 
 
