@@ -60,4 +60,5 @@ The plugin now will take this css and apply it inline to all elements. This
 makes GMail happy.
 
 Here's my [Jelly Template](https://gist.github.com/rahulsom/5125421).
-<script src="https://gist.github.com/rahulsom/5125421.js">Gist comes here</script>
+
+{% gist 5125421 %}
